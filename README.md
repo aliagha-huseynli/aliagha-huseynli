@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliagha-huseynli
 - 👀 I’m interested in C#
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently improving myself
 - 💞️ I’m looking to collaborate on Unity
 - 📫 How to reach me aliagha.huseynli@gmail.com
 
