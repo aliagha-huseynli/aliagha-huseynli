@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aliagha-huseynli
-- 🌱 I’m always improving myself
+- 🌱 I always enjoy to improve myself
 
 <!---
 aliagha-huseynli/aliagha-huseynli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
